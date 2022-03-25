@@ -77,6 +77,15 @@ export default function Home() {
           </a>
 
           <a
+            href="https://www.youtube.com/channel/UCNmAZQuo0DrGPzI7t8XiP_g"
+            target="_blank"
+            rel="noreferrer"
+            className={styles.card}
+          >
+            <h2>YouTube &rarr;</h2>
+          </a>
+
+          <a
             href="https://www.facebook.com/web3es/"
             target="_blank"
             rel="noreferrer"
