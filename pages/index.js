@@ -12,7 +12,10 @@ export default function Home() {
           content="web3es - Aprendiendo a programar la Web3 en español"
         />
         <link rel="icon" href="/favicon.ico" />
-        <link href="https://fonts.googleapis.com/css2?family=Alata&display=swap" rel="stylesheet" />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Alata&display=swap"
+          rel="stylesheet"
+        />
       </Head>
 
       <main className={styles.main}>
@@ -57,7 +60,15 @@ export default function Home() {
             className={styles.card}
           >
             <h2>Instagram &rarr;</h2>
-            <p></p>
+          </a>
+
+          <a
+            href="https://www.facebook.com/web3es/"
+            target="_blank"
+            rel="noreferrer"
+            className={styles.card}
+          >
+            <h2>Facebook &rarr;</h2>
           </a>
         </div>
       </main>
