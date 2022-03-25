@@ -54,6 +54,15 @@ export default function Home() {
           </a>
 
           <a
+            href="https://t.me/web3es"
+            target="_blank"
+            rel="noreferrer"
+            className={styles.card}
+          >
+            <h2>Telegram &rarr;</h2>
+          </a>
+
+          <a
             href="https://www.instagram.com/web3es/"
             target="_blank"
             rel="noreferrer"
