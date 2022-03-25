@@ -26,6 +26,7 @@ export default function Home() {
           <a
             href="https://www.twitch.tv/web3es"
             target="_blank"
+            rel="noreferrer"
             className={styles.card}
           >
             <h2>Twitch &rarr;</h2>
@@ -34,6 +35,7 @@ export default function Home() {
           <a
             href="https://discord.gg/Ev9qxCEzuH"
             target="_blank"
+            rel="noreferrer"
             className={styles.card}
           >
             <h2>Discord &rarr;</h2>
@@ -42,6 +44,7 @@ export default function Home() {
           <a
             href="https://twitter.com/web3es"
             target="_blank"
+            rel="noreferrer"
             className={styles.card}
           >
             <h2>Twitter &rarr;</h2>
@@ -50,6 +53,7 @@ export default function Home() {
           <a
             href="https://www.instagram.com/web3es/"
             target="_blank"
+            rel="noreferrer"
             className={styles.card}
           >
             <h2>Instagram &rarr;</h2>
