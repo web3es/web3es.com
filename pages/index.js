@@ -11,6 +11,11 @@ export default function Home() {
           name="description"
           content="web3es - Aprendiendo a programar la Web3 en español"
         />
+        <meta
+          name="keywords"
+          content="web3, solidity, smart contract, smart contracts, ethereum, ethers, ethersjs, hardhat, etherscan, web3es"
+        />
+        <meta name="author" content="web3es" />
         <link rel="icon" href="/favicon.ico" />
         <link
           href="https://fonts.googleapis.com/css2?family=Alata&display=swap"
