@@ -15,19 +15,31 @@
 .title {
   margin: 0;
   line-height: 1.15;
-  font-size: 4rem;
+  font-size: 3rem;
   font-family: Alata, sans-serif;
 }
 
 .title,
-.description {
+.description,
+.announcement {
   text-align: center;
 }
 
 .description {
-  margin: 4rem 0;
+  margin: 3rem 0;
   line-height: 1.5;
   font-size: 1.5rem;
+  font-style: italic;
+}
+
+.announcement {
+  margin: 0 0 3rem;
+  line-height: 1.5;
+  font-size: 1.5rem;
+}
+
+.announcement a {
+  text-decoration: underline;
 }
 
 .grid {
