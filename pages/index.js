@@ -48,12 +48,12 @@ export default function Home() {
         <p className={styles.announcement}>
           🎥{" "}
           <a
-            href="https://www.youtube.com/watch?v=NJyTcExarVQ&t=3292s"
+            href="https://www.youtube.com/watch?v=8t4fChQc-uM"
             target="_blank"
             rel="noreferrer"
-            title="Programando nuestro primer Smart Contract con Solidity"
+            title="¿Qué es Git y cómo crear nuestro primer repositorio en GitHub?"
           >
-            Programando nuestro primer Smart Contract con Solidity
+            ¿Qué es Git y cómo crear nuestro primer repositorio en GitHub?
           </a>
         </p>
 
