@@ -48,12 +48,12 @@ export default function Home() {
         <p className={styles.announcement}>
           🎥{" "}
           <a
-            href="https://www.youtube.com/watch?v=8t4fChQc-uM"
+            href="https://www.youtube.com/watch?v=7eu4-f-wCrY&feature=youtu.be"
             target="_blank"
             rel="noreferrer"
-            title="¿Qué es Git y cómo crear nuestro primer repositorio en GitHub?"
+            title="Interactuando con nuestro Smart Contract desde una web app React"
           >
-            ¿Qué es Git y cómo crear nuestro primer repositorio en GitHub?
+            Interactuando con nuestro Smart Contract desde una web app React
           </a>
         </p>
 
