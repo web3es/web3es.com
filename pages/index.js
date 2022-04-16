@@ -48,12 +48,12 @@ export default function Home() {
         <p className={styles.announcement}>
           🎥{" "}
           <a
-            href="https://www.youtube.com/watch?v=7eu4-f-wCrY&feature=youtu.be"
+            href="https://www.youtube.com/watch?v=1ogV5jMumjY"
             target="_blank"
             rel="noreferrer"
-            title="Interactuando con nuestro Smart Contract desde una web app React"
+            title="Seguimos programando el Smart Contract inspirado en el juego Criptdle"
           >
-            Interactuando con nuestro Smart Contract desde una web app React
+            Seguimos programando el Smart Contract inspirado en el juego Criptdle
           </a>
         </p>
 
