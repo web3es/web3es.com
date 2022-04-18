@@ -48,12 +48,12 @@ export default function Home() {
         <p className={styles.announcement}>
           🎥{" "}
           <a
-            href="https://www.youtube.com/watch?v=1ogV5jMumjY"
+            href="https://www.youtube.com/watch?v=usFhJO7GlVk"
             target="_blank"
             rel="noreferrer"
-            title="Seguimos programando el Smart Contract inspirado en el juego Criptdle"
+            title="Publicamos un NFT de forma gratuita en OpenSea"
           >
-            Seguimos programando el Smart Contract inspirado en el juego Criptdle
+            Publicamos un NFT de forma gratuita en OpenSea
           </a>
         </p>
 
