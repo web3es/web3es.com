@@ -48,12 +48,12 @@ export default function Home() {
         <p className={styles.announcement}>
           🎥{" "}
           <a
-            href="https://www.youtube.com/watch?v=Oic2yLjmirw"
+            href="https://www.youtube.com/watch?v=nfxuqjjoicM"
             target="_blank"
             rel="noreferrer"
-            title="Terminamos nuestra primera dApp inspirada en Criptdle"
+            title="Empezamos un nuevo proyecto: ¡Creá tu propia DAO!"
           >
-            Terminamos nuestra primera dApp inspirada en Criptdle
+            Empezamos un nuevo proyecto: ¡Creá tu propia DAO!
           </a>
         </p>
 
