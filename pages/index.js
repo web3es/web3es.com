@@ -48,12 +48,12 @@ export default function Home() {
         <p className={styles.announcement}>
           🎥{" "}
           <a
-            href="https://www.youtube.com/watch?v=nfxuqjjoicM"
+            href="https://www.youtube.com/watch?v=-aL3mhP6NVc"
             target="_blank"
             rel="noreferrer"
-            title="Empezamos un nuevo proyecto: ¡Creá tu propia DAO!"
+            title="¿Cómo y dónde aprender a programar? Exploramos distintos caminos"
           >
-            Empezamos un nuevo proyecto: ¡Creá tu propia DAO!
+            ¿Cómo y dónde aprender a programar? Exploramos distintos caminos
           </a>
         </p>
 
