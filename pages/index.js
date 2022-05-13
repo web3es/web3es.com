@@ -48,12 +48,12 @@ export default function Home() {
         <p className={styles.announcement}>
           🎥{" "}
           <a
-            href="https://www.youtube.com/watch?v=8PZ40trLoKU"
+            href="https://www.youtube.com/watch?v=brUcr4l_pX8"
             target="_blank"
             rel="noreferrer"
-            title="Conociendo al team de CryptoProde"
+            title="Comenzamos a programar la w3esDAO con NEXT.js y thirdweb"
           >
-            Conociendo al team de CryptoProde
+            Comenzamos a programar la w3esDAO con NEXT.js y thirdweb
           </a>
         </p>
 
