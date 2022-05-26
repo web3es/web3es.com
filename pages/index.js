@@ -48,12 +48,12 @@ export default function Home() {
         <p className={styles.announcement}>
           🎥{" "}
           <a
-            href="https://www.youtube.com/watch?v=brUcr4l_pX8"
+            href="https://www.youtube.com/watch?v=jV0tUpq0Udw"
             target="_blank"
             rel="noreferrer"
-            title="Comenzamos a programar la w3esDAO con NEXT.js y thirdweb"
+            title="App Web3 con Solidity de buildspace.io (primera parte)"
           >
-            Comenzamos a programar la w3esDAO con NEXT.js y thirdweb
+            App Web3 con Solidity de buildspace.io (primera parte)
           </a>
         </p>
 
