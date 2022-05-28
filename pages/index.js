@@ -48,12 +48,12 @@ export default function Home() {
         <p className={styles.announcement}>
           🎥{" "}
           <a
-            href="https://www.youtube.com/watch?v=jV0tUpq0Udw"
+            href="https://www.youtube.com/watch?v=JJvzV0UKfYc"
             target="_blank"
             rel="noreferrer"
-            title="App Web3 con Solidity de buildspace.io (primera parte)"
+            title="App Web3 con Solidity de buildspace.io (segunda parte)"
           >
-            App Web3 con Solidity de buildspace.io (primera parte)
+            App Web3 con Solidity de buildspace.io (segunda parte)
           </a>
         </p>
 
