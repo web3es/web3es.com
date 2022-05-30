@@ -48,12 +48,12 @@ export default function Home() {
         <p className={styles.announcement}>
           🎥{" "}
           <a
-            href="https://www.youtube.com/watch?v=JJvzV0UKfYc"
+            href="https://www.youtube.com/watch?v=aN1wh1cPU8M"
             target="_blank"
             rel="noreferrer"
-            title="App Web3 con Solidity de buildspace.io (segunda parte)"
+            title="Introducción conceptual a GraphQL"
           >
-            App Web3 con Solidity de buildspace.io (segunda parte)
+            Introducción conceptual a GraphQL
           </a>
         </p>
 
