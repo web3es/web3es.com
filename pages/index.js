@@ -48,12 +48,12 @@ export default function Home() {
         <p className={styles.announcement}>
           🎥{" "}
           <a
-            href="https://www.youtube.com/watch?v=aN1wh1cPU8M"
+            href="https://www.youtube.com/watch?v=iPuo3eXu-Vk"
             target="_blank"
             rel="noreferrer"
-            title="Introducción conceptual a GraphQL"
+            title="Programando el mini juego NFT de buildspace (primera parte)"
           >
-            Introducción conceptual a GraphQL
+            Programando el mini juego NFT de buildspace (primera parte)
           </a>
         </p>
 
